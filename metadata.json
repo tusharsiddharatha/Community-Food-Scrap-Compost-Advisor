@@ -1,0 +1,6 @@
+{
+  "name": "AI for Sustainability Project Builder",
+  "description": "An interactive workspace for student interns of the 1M1B - IBM SkillsBuild AI + Sustainability Internship. Select SDGs, ideate with Design Thinking, test prompt-based or RAG AI prototype models, and export compliance-ready presentation slide details.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
